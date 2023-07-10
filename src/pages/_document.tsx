@@ -11,7 +11,7 @@ export default function Document() {
         <link
           rel="shortcut icon"
           type="image/x-icon"
-          href="public/favicon.ico"
+          href="/public/favicon.ico"
         />
       </Head>
       <body>
