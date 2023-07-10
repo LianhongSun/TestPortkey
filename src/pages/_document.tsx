@@ -8,7 +8,7 @@ export default function Document() {
           name="viewport"
           content="width=device-width,initial-scale=1,maximum-scale=1"
         />
-        <link rel="icon" type="image/png" href="_next/static/favicon.ico" />
+        <link rel="icon" type="image/png" href="/images/favicon.ico" />
       </Head>
       <body>
         <Main />
