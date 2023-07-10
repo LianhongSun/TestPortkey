@@ -39,7 +39,7 @@ function App() {
 
   return (
     <PortkeyConfigProvider>
-      <button
+      {/* <button
         onClick={async () => {
           if (ref.current) ref.current.setOpen(true);
         }}
@@ -53,7 +53,7 @@ function App() {
           console.log(didWallet, "didWallet====onFinish");
         }}
         onCancel={() => ref.current?.setOpen(false)}
-      />
+      /> */}
     </PortkeyConfigProvider>
   );
 }
